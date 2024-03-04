@@ -16,6 +16,9 @@ Minikube Tunnel creates a tunnel between a host port and a service using the fol
 
 ```
 minikube service mongo-express-service
+
+minikube tunnel mongo-express-ingress
+--> Creates tunnel between host machine and minikube cluster
 ```
 
 ## Helm
