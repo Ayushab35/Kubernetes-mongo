@@ -1,3 +1,9 @@
+### Running the application
+- Install Minikube in your local machine using docker as your virtual environment
+- Command 
+```
+minikube start
+```
 # Kubernetes Concepts
 
 ## Ingress
